@@ -1,0 +1,4 @@
+---
+- hosts: zos_host
+  gather_facts: true
+
